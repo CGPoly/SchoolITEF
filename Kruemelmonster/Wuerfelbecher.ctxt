@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wuerfelbecher()
+comment1.params=
+comment1.target=void\ werfen()
+comment2.params=
+comment2.target=int\ gibWurf1()
+comment3.params=
+comment3.target=int\ gibWurf2()
+comment4.params=
+comment4.target=int\ gibWurf3()
+numComments=5

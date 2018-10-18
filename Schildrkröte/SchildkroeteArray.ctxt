@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SchildkroeteArray
+comment1.params=
+comment1.target=SchildkroeteArray()
+comment10.params=grundlaenge\ kreisRadius\ anzahl
+comment10.target=void\ gabelStecherArray03(int,\ double,\ int)
+comment2.params=grundlaenge\ anzahl
+comment2.target=void\ quadratArray(double,\ int)
+comment3.params=radius\ strichlaenge\ anzahl
+comment3.target=void\ kreisStrichArray(double,\ double,\ int)
+comment4.params=groe\u00DFe\ anzahl
+comment4.target=void\ hausVomNikolausArray(double,\ int)
+comment5.params=seitenlaenge\ quadratAnzahl\ treppenanzahl
+comment5.target=void\ klausur2(double,\ int,\ int)
+comment6.params=seitenlaenge\ quadratAnzahl\ treppenanzahl
+comment6.target=void\ klausur2HighValue(double,\ int,\ int)
+comment7.params=grundlaenge\ kreisRadius\ arrayX\ arrayY
+comment7.target=void\ gabelStecherArray(int,\ double,\ int,\ int)
+comment8.params=grundlaenge\ kreisRadius\ eckenzahl
+comment8.target=void\ gabelStecherArray02(int,\ double,\ int)
+comment9.params=grundlaenge\ kreisRadius\ anzahl
+comment9.target=void\ gabelStecherArraySimple(int,\ double,\ int)
+numComments=11

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Diese\ Klasse\ modelliert\ eine\ Person.\r\n\ \r\n\ @author\ Dr.\ Oliver\ Heidb&uuml;chel\r\n\ @version\ 0.1\ -\ 29.08.2010\r\n
+comment1.params=richtung
+comment1.target=void\ move(char)
+comment1.text=\r\n\ Die\ Person\ wird\ um\ ein\ Feld\ in\ die\ angegebene\ Richtung\ bewegt,\ es\ \r\n\ sei\ denn,\ die\ Welt\ ist\ dort\ zu\ Ende\ oder\ es\ befindet\ sich\ dort\r\n\ eine\ Wand.\r\n\ \r\n\ @param\ richtung\ 'r'\ rechts,\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 'l'\ links,\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 'u'\ unten,\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 'o'\ oben\r\n
+numComments=2

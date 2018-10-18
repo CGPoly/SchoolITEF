@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=zahlenliste
+comment0.target=MyList(int[])
+comment0.text=\r\n\ Konstruktor\ fuer\ Objekte\ der\ Klasse\ MyList\r\n\ \r\n\ @param\ zahlenliste\ Die\ Zahlenliste,\ die\ angezeigt\ werden\ soll\!\r\n
+comment1.params=anzahl
+comment1.target=void\ refresh(int)
+comment1.text=\r\n\ Die\ ersten\ <i>anzahl</i>\ Zahlen\ aus\ der\ Zahlenliste\ werden\ neu\ in\ das\ Listenfeld\ eingetragen\!\r\n\ \r\n\ @param\ anzahl\ So\ viele\ Zahlen\ aus\ der\ Zahlenliste\ werden\ in\r\n\ das\ Listenfeld\ der\ Reihe\ nach\ beginnend\ mit\ dem\ 0ten\ Element\ \r\n\ eingetragen.\ \r\n
+numComments=2

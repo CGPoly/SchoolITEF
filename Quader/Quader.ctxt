@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=breit\ hoch\ tief
+comment0.target=Quader(double,\ double,\ double)
+comment1.params=
+comment1.target=double\ berechneVolumen()
+comment2.params=
+comment2.target=double\ berechneOberflaeche()
+comment3.params=
+comment3.target=double\ berechneKantenlaenge()
+comment4.params=vorgabeBreite
+comment4.target=void\ setzeBreite(double)
+comment5.params=vorgabeHoehe
+comment5.target=void\ setzeHoehe(int)
+comment6.params=vorgabeTiefe
+comment6.target=void\ setzeTiefe(int)
+comment7.params=
+comment7.target=double\ gibBreite()
+comment8.params=
+comment8.target=double\ gibHoehe()
+comment9.params=
+comment9.target=double\ gibTiefe()
+numComments=10

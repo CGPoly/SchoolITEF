@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Kamel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Kamel\ here.\r\n\ \r\n\ @author\ (KBovi)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=boolean\ kannBewegen()
+comment1.text=\r\n\ Der\ Sensor\ ueberprueft,\ ob\ sich\ das\ Kamel\ bewegen\ kann.\r\n
+comment2.params=
+comment2.target=void\ bewegen()
+comment2.text=\r\n\ Das\ Kamel\ bewegt\ sich\ um\ ein\ Feld\ vorw\u00E4rts,\ falls\ m\u00F6glich.\ \r\n
+comment3.params=
+comment3.target=void\ ziel()
+comment3.text=\r\n\ Das\ Kamel\ bewegt\ sich,\ falls\ eine\ 2-seitige\ "M\u00FCnze"\ Wappen\ oben\ hat.\ \r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5

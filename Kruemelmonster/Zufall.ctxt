@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zufall()
+comment1.params=von\ bis
+comment1.target=int\ neueZufallszahl(int,\ int)
+numComments=2
