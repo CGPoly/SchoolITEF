@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=runden\ startKekse
-comment0.target=Spiel(int,\ int)
-comment1.params=runden
-comment1.target=boolean\ spielen(int)
-numComments=2

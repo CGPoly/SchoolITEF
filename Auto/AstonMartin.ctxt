@@ -1,4 +1,0 @@
-#BlueJ class context
-comment0.params=SetMaxspeed\ setName\ qualityIsGood\ Price\ color
-comment0.target=AstonMartin(double,\ java.lang.String,\ boolean,\ double,\ java.lang.String)
-numComments=1
